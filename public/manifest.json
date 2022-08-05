@@ -3,7 +3,7 @@
 
   "name": "Britch (Twitch Brightness)",
   "description": "Cette extension ajoute une jauge afin de régler la luminosté des streams",
-  "version": "0.1",
+  "version": "0.2",
 
   "options_ui": {
     "page": "options.html"
